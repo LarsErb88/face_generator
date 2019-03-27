@@ -4,7 +4,7 @@ In this project, we'll define and train a DCGAN on a dataset of faces. The goal 
 Documentation
 -------------
 
-This is my first RNN from scratch for generating Seinfeld TV scripts.
+This is my first DCGAN.
 
 Install
 --------
